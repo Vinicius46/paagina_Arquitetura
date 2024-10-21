@@ -1,0 +1,7 @@
+.loading-overlay-container {
+    background: white;
+    width: 100vw;
+    position: fixed;
+    height: 100vh ;
+    z-index: 1;
+}
