@@ -24,7 +24,7 @@ export default function Header () {
         <header>
             <div className="container">
                 <div className="al-center d-flex jc-space-between">
-                    <Link to="/"> <img src={logoDNC}/></Link>
+                    
                     <div className="mobile-menu">
                        <Button buttonStyle="secondary" onClick={toggleMenu}>
                             Menu

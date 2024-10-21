@@ -29,7 +29,7 @@ export default function Footer() {
             <div className="container">
                 <div className="d-flex jc-space-between mobile-fd-column">
                     <div className="footer-logo-col">
-                         <img src={LogoDnc} />
+                         
                          <p className="gray-1-color">{appContext.languages[appContext.language].general.footerLogoText}</p>
                          <div className="d-flex social-links">
                             <a href="https://www.google.com.br/?hl=pt-BR" target="_blank">
